@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iurii Lukashov</h1>
-<h3 align="center">A passionate data scientist from the United States</h3>
+<h3 align="center">Incoming Data Science student | ML / Data Science / Analytics | NLP, Recommender Systems, AdTech, Drug Discovery</h3>
 
 - 🌱 I’m currently exploring **deep learning and its applications**
 
